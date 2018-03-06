@@ -1,0 +1,28 @@
+#list{
+	cursor: pointer;
+}
+.fa-angle-left {
+	font-size:3em;
+	margin-left: 10px;
+}
+.panel-body{
+	padding: 0 0 0 15px
+}
+body{ 
+font-family: Verdana;
+font-size: 13px;
+}
+#finder{
+	width:70%;
+}
+#textSong{
+	margin-left: 20px;
+}
+.sizeFont{
+    width: 39px;
+	margin-right: 0px;
+}
+.btn-group{
+	margin-top: 5px;
+	margin-right: 4px;
+}
